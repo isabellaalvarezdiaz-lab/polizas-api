@@ -48,9 +48,7 @@ def crear_poliza(datos: PolizaEntrada):
                     token_firma=firmar(datos.numero))
     for s in datos.siniestros:
         poliza.siniestros.append(Siniestro(
-            fecha=date.fromisoformat(str(s.get("fecha", date.today()))),
-            monto=s.get("monto", 0), descripcion=s.get("descripcion", ""),
-            estado=s.get("estado", "abierto")))
+            fecha=s.fecha, monto=s.monto, descripcion=s.descripcion, estado=s.estado))
     sesion.add(poliza)
     sesion.commit()
     sesion.refresh(poliza)
