@@ -1,0 +1,9 @@
+﻿endpoint,tamano,estrategia,consultas_sql
+/polizas,10,selectinload,2
+/polizas,2000,selectinload,2
+/polizas/{id},10,joinedload,1
+/polizas/{id},2000,joinedload,1
+/siniestros,10,joinedload,1
+/siniestros,2000,joinedload,1
+/resumen,10,agregada,1
+/resumen,2000,agregada,1
