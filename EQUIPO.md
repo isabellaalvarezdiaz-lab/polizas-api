@@ -10,6 +10,6 @@
 
 | Nombre completo | Correo institucional | Identidades git |
 |-----------------|----------------------|-----------------|
-| Isabella Álvarez | correo@usta.edu.co | Isabella <isabellaalvarezdiaz@gmail.com> |
-| Eduar Caicedo | correo@usta.edu.co | Eduar Caicedo <eduar77.munoz@gmail.com> |
+| Isabella Álvarez | isabellaalvarez@usantotomas.edu.co | Isabella <isabellaalvarezdiaz@gmail.com> |
+| Eduar Caicedo | eduarcaicedo@usantotomas.edu.co | Eduar Caicedo <eduar77.munoz@gmail.com> |
 | Anderson Gonzalez | fgonzalez03102022@gmail.com | Anderson Gonzalez <fgonzalez03102022@gmail.com> |
