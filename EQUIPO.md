@@ -11,5 +11,5 @@
 | Nombre completo | Correo institucional | Identidades git |
 |-----------------|----------------------|-----------------|
 | Isabella Álvarez | isabellaalvarez@usantotomas.edu.co | Isabella <isabellaalvarezdiaz@gmail.com> |
-| Eduar Caicedo | eduarcaicedo@usantotomas.edu.co | Eduar Caicedo <eduar77.munoz@gmail.com> |
-| Anderson Gonzalez | fgonzalez03102022@gmail.com | Anderson Gonzalez <fgonzalez03102022@gmail.com> |
+| Eduar Caicedo | eduarcaicedo@usantotomas.edu.co | Eduar Caicedo <eduar77.munoz@gmail.com>; eduar77munoz <eduar77.munoz@gmail.com> |
+| Anderson Gonzalez | fgonzalez03102022@gmail.com | Anderson Gonzalez <fgonzalez03102022@gmail.com>; fgonzalez0310 <fgonzalez03102022@gmail.com> |
